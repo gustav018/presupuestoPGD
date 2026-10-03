@@ -1,0 +1,6 @@
+# Carpeta con archivos descomprimidos (> 100 MB, superan el límite de GitHub)
+data/extracted/
+
+# Archivos temporales de herramientas / MCP
+.playwright-mcp/
+*.log
